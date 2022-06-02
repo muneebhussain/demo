@@ -14,7 +14,7 @@ You'll complete the following steps:
 * Automating deployments for git tags
 
 
-## Preparing your environment
+## Preparing your environment !
 
 1.  Create environment variables to use throughout this tutorial:
 
